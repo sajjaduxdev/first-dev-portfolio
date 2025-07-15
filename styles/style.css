@@ -123,3 +123,25 @@ main{
     border-radius: 5px;
     text-align: left;
 }
+.resume{
+    text-align: left;
+    padding-top: 130px;
+}
+.resume-title{
+    text-align: center;
+    padding-bottom: 60px;
+}
+.resume-container-parrent{
+    display: flex;
+    gap: 24px;
+    
+}
+.resume-experiecne-description{
+    color: #757575;
+}
+.resume-experience-subtitle{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600px;
+    margin-bottom: 20px;
+}
