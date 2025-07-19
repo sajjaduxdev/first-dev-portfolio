@@ -145,3 +145,43 @@ main{
     font-weight: 600px;
     margin-bottom: 20px;
 }
+.resume-btn-cv{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+.footer-main{
+    display: flex;
+    gap: 120px;
+}
+
+footer{
+    margin-top: 50px;
+    padding: 130px 230px;
+}
+.footer-title{
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.footer-column{
+    width: 50%;
+}
+footer input[type="text"], footer input[type="email"], footer textarea{
+    size: 16px;
+    text-decoration-color: #757575;
+    padding: 9px 18px;
+    display: block;
+    margin-bottom: 24px;
+    height: 64px;
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+}
+.footer-column-content{
+    margin-bottom: 24px;
+}
